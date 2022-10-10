@@ -7,6 +7,6 @@
 <body>
 <h1><p style="color:red; font-size:100px">you have been hacking ;D</p>
 <h3><p style="color:red;">long live the federation </p>
-<img src="https://cdn.discordapp.com/attachments/655842261212332052/1028847693226848357/580b57fbd9996e24bc43bc1c.png">
+<img src="https://cdn.discordapp.com/attachments/655842261212332052/1028847693226848357/580b57fbd9996e24bc43bc1c.png"><img src="https://media.discordapp.net/attachments/1008060982343520277/1008584623606997073/speed.gif">
 </body>
 </html>
