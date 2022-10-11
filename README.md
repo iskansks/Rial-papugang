@@ -5,6 +5,6 @@
     <title>Rial papugang</title>
 </head>
 <body>
-<img src="https://cdn.discordapp.com/attachments/655842261212332052/1028847693226848357/580b57fbd9996e24bc43bc1c.png"><img src="https://media.discordapp.net/attachments/1008060982343520277/1008584623606997073/speed.gif">
+<img src="https://cdn.discordapp.com/attachments/832838959389737000/1029193042290282536/unknown.png>
 </body>
 </html>
